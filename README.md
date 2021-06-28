@@ -12,6 +12,7 @@
 ![logo](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 
 
+
 ##各学年のまなび:book:
 １年次：*大学の学びや生活に慣れる*
 - 10人ずつ研究室に配属
